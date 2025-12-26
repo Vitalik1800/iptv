@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz",http://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/htv.xml
-#EXTINF:-1 ,📺ТВA-26.12.25/FAS-TV.COM/№-1
-https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-#EXTINF:-1 ПЕРШИЙ
+#EXTINF:-1,ПЕРШИЙ
 https://tva.in.ua/live/first.m3u8
 #EXTINF:-1,ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
